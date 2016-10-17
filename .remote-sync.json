@@ -1,0 +1,17 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "138.68.95.238",
+  "port": "22",
+  "target": "/var/www/html/invento",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "root",
+  "keyfile": "/home/nazim/.ssh/private",
+  "passphrase": "Nazism09",
+  "watch": [],
+  "transport": "scp"
+}
